@@ -1,12 +1,5 @@
 fileFormatVersion: 2
-guid: 276815996ac5b2144bdd94486e724ca4
-AssetOrigin:
-  serializedVersion: 1
-  productId: 58899
-  packageName: SimplePoly City - Low Poly Assets
-  packageVersion: 1.2.3
-  assetPath: Assets/SimplePoly City - Low Poly Assets/Textures/Building Sky_big_color01.png
-  uploadId: 171409
+guid: 68fe3ffdcccf2c64f8e4d74e6b9f10f6
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -35,18 +28,18 @@ TextureImporter:
   ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
-  cubemapConvolution: 0
-  seamlessCubemap: 0
-  textureFormat: -1
-  maxTextureSize: 1024
+  cubemapConvolution: 1
+  seamlessCubemap: 1
+  textureFormat: 1
+  maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
-    aniso: 1
+    filterMode: 2
+    aniso: 0
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 1
   lightmap: 0
   compressionQuality: 50
@@ -62,7 +55,7 @@ TextureImporter:
   alphaIsTransparency: 0
   spriteTessellationDetail: -1
   textureType: 0
-  textureShape: 1
+  textureShape: 2
   singleChannelComponent: 0
   flipbookRows: 1
   flipbookColumns: 1
@@ -70,17 +63,17 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
-  applyGammaDecoding: 1
+  applyGammaDecoding: 0
   swizzle: 50462976
-  cookieLightType: 1
+  cookieLightType: 0
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 1024
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
+    textureCompression: 0
+    compressionQuality: 100
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
@@ -89,7 +82,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Standalone
-    maxTextureSize: 1024
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -102,7 +95,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: WebGL
-    maxTextureSize: 1024
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -115,14 +108,14 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: iOS
-    maxTextureSize: 1024
-    resizeAlgorithm: 1
-    textureFormat: 50
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
     textureCompression: 1
-    compressionQuality: 0
+    compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
-    overridden: 1
+    overridden: 0
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
